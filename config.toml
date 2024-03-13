@@ -1,0 +1,13 @@
+baseURL = "https://emirateyang.github.io/"
+languageCode = "zh-Hans"
+theme = "moments"
+paginate = 10
+paginatePath = '.'
+
+[params]
+    title = "EmirateYang's Blog"
+    signature = "时光如白驹，我亦是过客。"
+    cover = "https://cdn.pixabay.com/photo/2018/03/13/22/53/puzzle-3223941_1280.jpg"
+
+    name = "洋芋酋长"
+    avatar = "/images/5934358.jpg"
