@@ -1,6 +1,5 @@
 baseURL = "https://emirateyang.github.io/"
 languageCode = "zh-Hans"
-theme = "moments"
 paginate = 10
 paginatePath = '.'
 
